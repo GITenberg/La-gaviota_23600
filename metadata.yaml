@@ -1,0 +1,32 @@
+_repo: La-gaviota_23600
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caballero, Fernán
+    aliases:
+    - De Faber y Larrea, Cecilia Francisca Josefa Bohl
+    - De Faber y Larrea, Cecilia Francisca Josefa Böhl
+    - Caballero, Fernan
+    birthdate: 1796
+    deathdate: 1877
+    gutenberg_agent_id: '7378'
+    url: http://www.gutenberg.org/2009/agents/7378
+    wikipedia: http://en.wikipedia.org/wiki/Fern%C3%A1n_Caballero
+description: ''
+gutenberg_issued: '2007-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23600'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- 19th century'
+- !lcsh 'Women -- Spain -- Fiction'
+title: La gaviota
+url: http://www.gutenberg.org/ebooks/23600
